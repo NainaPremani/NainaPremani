@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Full Stack**
 
-- 👨‍💻 All of my projects are available at [https://nainapremani.github.io/](https://nainapremani.github.io/)
+- 👨‍💻 All of my projects are available at (https://nainapremani.github.io/)
 
 - 💬 Ask me about **HTML,CSS,Javascript,React**
 
