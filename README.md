@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at (https://nainapremani.github.io/)
 
-- 💬 Ask me about **HTML,CSS,Javascript,React**
+- 💬 Ask me about **HTML, CSS, Javascript, React, Node, Express, Mongo**
 
-- 📫 How to reach me **https://www.linkedin.com/in/naina-premani-974ba715b/**
+- 📫 How to reach me **nainapremani9@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<p align="left">Connect with me on LinkedIn : https://www.linkedin.com/in/naina-premani-974ba715b/</h3>
 <p align="left">
 </p>
 
