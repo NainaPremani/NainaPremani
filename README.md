@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **HTML,CSS,Javascript,React**
 
-- 📫 How to reach me **nainapremani9@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/naina-premani-974ba715b/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
