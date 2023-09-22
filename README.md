@@ -25,7 +25,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nainapremani&" alt="nainapremani" /></p>
 
-![Naina's GitHub stats](https://github-readme-stats.vercel.app/api?username=nainapremani)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nainapremani)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nainapremani)
 
