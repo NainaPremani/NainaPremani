@@ -25,9 +25,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nainapremani&" alt="nainapremani" /></p>
 
-[![Naina's GitHub stats](https://github-readme-stats.vercel.app/api?username=nainapremani)]
+![Naina's GitHub stats](https://github-readme-stats.vercel.app/api?username=nainapremani)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nainapremani)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nainapremani)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NainaPremani&size_weight=0.5&count_weight=0.5)](https://github.com/NainaPremani/github-readme-stats) -->
 
